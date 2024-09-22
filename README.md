@@ -6,7 +6,7 @@ Welcome to the LeetCode Solutions repository! You'll find daily solutions to Lee
 
 | Problem Number | Problem Name                     |  Jump into Code  | Difficulty Level |
 |----------------|----------------------------------|------------------|------------------|
-| 386            | Lexicographical Numbers          |     [Java](#)    | Medium           |
+| 386            | Lexicographical Numbers          |     [Java](https://github.com/FaizanCyber007/LeetCode_Solution/blob/main/Solutions/Lexicographical%20Numbers)    | Medium           |
 
 
 ## How to Contribute
